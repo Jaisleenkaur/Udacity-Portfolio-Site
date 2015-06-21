@@ -28,3 +28,7 @@ hr {
 h2 {
 	color: #bcbbbb;
 }
+
+.portfolio-img {
+	cursor: pointer;
+}
